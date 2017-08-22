@@ -1,0 +1,9 @@
+com.jambon.acroblokusandroid
+controller
+model
+view
+view.dialogFragment
+view.fragment
+view.gameView
+webSocketInterface
+webSocketManager
